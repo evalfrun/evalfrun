@@ -2,13 +2,13 @@
 
   <h1>Hi, I'm Musab 👋</h1>
   
-  <p><strong>CS Student @ SEU | Security Enthusiast & Malware Analyst</strong></p>
+  <p><strong>CS Student @ SEU | Security Enthusiast & Lifelong Learner</strong></p>
 
-  <p><em>Hands-on in the field — dissecting real-world malware samples and analyzing system behavior under the hood.</em></p>
+  <p><em>Patience, persistence, and continuous learning — digging deeper into systems one concept at a time.</em></p>
 
   <!-- Status / Learning Badges -->
-  <img src="https://img.shields.io/badge/Status-Field%20Analysis%20%26%20Research-red?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Journey-Windows%20Internals%20%26%20Reversing-orange?style=for-the-badge&logo=windows&logoColor=white" alt="Journey" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Journey-Windows%20Internals%20%26%20Reversing-orange?style=for-the-badge&logo=target" alt="Journey" />
 
   <br/><br/>
 
@@ -23,22 +23,21 @@
 
 ### 📖 About My Learning Journey
 
-* 🎓 **Academic Path:** Computer Science student at Saudi Electronic University (SEU)[cite: 1].
-* 🎯 **My Approach:** Low-level security and systems engineering take serious time and repetition to truly grasp. I prioritize building a rock-solid foundation through real hands-on analysis rather than rushing through high-level overviews.
-* 🔬 **In The Field:** Actively dissecting real-world malware samples, tracking execution flow, and observing evasion and injection techniques in action[cite: 3, 4].
-* 🧠 **Current Routine:** Analyzing binary behavior, writing structured technical notes, and mapping out Windows operating system internals[cite: 2].
+- 🎓 **Academic Path:** Computer Science student at Saudi Electronic University (SEU)[cite: 1].
+- 🎯 **My Approach:** Low-level security and systems engineering take serious time and repetition to truly grasp. I'm taking my time building a rock-solid foundation rather than rushing through high-level overviews.
+- 🧠 **Current Routine:** Dissecting technical concepts, writing structured notes, analyzing binary behavior, and practicing fundamentals.
 
 ---
 
 ### ⏳ Topics I'm Actively Studying & Exploring
 
-> *These represent areas I am currently breaking down, analyzing in the field, and exploring at my own pace:*
+> *These represent areas I am currently breaking down, taking notes on, and exploring at my own pace:*
 
-* **Windows Internals:** Operating system structure, essential processes (`csrss`, `lsass`, `svchost`), process/thread management, and internal structures (`PEB`, `TEB`)[cite: 2].
-* **PE File Format:** Structure breakdown (Headers, Imports, Exports, and Sections)[cite: 2].
-* **Reverse Engineering Foundations:** Binary disassembly, basic x86/x64 assembly patterns, and control flow analysis[cite: 3].
-* **Malware Analysis & Concepts:** Hands-on static/dynamic triage, behavioral observation, and studying real injection/evasion concepts (DLL Injection, Process Hollowing, Syscalls)[cite: 3, 4].
-* **Security Fundamentals:** Networking essentials, packet inspection, and core cryptographic primitives (AES, RSA, Hashing)[cite: 5].
+- **Windows Internals:** Operating system structure, essential processes (`csrss`, `lsass`, `svchost`), process/thread management, and internal structures (`PEB`, `TEB`)[cite: 2].
+- **PE File Format:** Structure breakdown (Headers, Imports, Exports, and Sections)[cite: 2].
+- **Reverse Engineering Foundations:** Binary disassembly, basic x86/x64 assembly patterns, and control flow analysis[cite: 3].
+- **Malware Analysis & Concepts:** Static/dynamic analysis principles, triage, and studying common evasion/injection concepts (DLL Injection, Process Hollowing, Syscalls)[cite: 3, 4].
+- **Security Fundamentals:** Networking essentials, recon techniques, and core cryptographic primitives (AES, RSA, Hashing)[cite: 5].
 
 ---
 
@@ -61,5 +60,5 @@
 ---
 
 <div align="center">
-  <code>"Analyzing live binaries, breaking down execution flow, and understanding what's truly under the hood."</code>
+  <code>"It takes time to understand what's under the hood. Building, breaking, and learning every day."</code>
 </div>
