@@ -16,20 +16,20 @@
 
 ### About Me
 
-* 🎓 CS student at Saudi Electronic University (SEU)[cite: 1].
-* 🔬 Currently focusing on **Windows Internals**, **Reverse Engineering**, and **Malware Analysis**.
-* 📝 Learning low-level concepts step-by-step and documenting my notes along the way.
-* 💻 Writing small tools and scripts mainly in C, Python, and PowerShell.
+- 🎓 CS student at Saudi Electronic University (SEU).
+- 🔬 Currently focusing on **Windows Internals**, **Reverse Engineering**, and **Malware Analysis**.
+- 📝 Learning low-level concepts step-by-step and documenting my notes along the way.
+- 💻 Writing small tools and scripts mainly in C, Python, and PowerShell.
 
 ---
 
 ### What I'm Currently Learning
 
-* **Windows Internals:** Processes (`csrss`, `lsass`, `svchost`), PEB/TEB, and core architecture [cite: 2].
-* **PE Format:** File headers, sections, import/export tables[cite: 2].
-* **Reverse Engineering:** Basic x86/x64 assembly, disassembly with Ghidra and x64dbg[cite: 3].
-* **Malware Analysis:** Analyzing real-world samples, triage, and common injection techniques (DLL injection, Process Hollowing)[cite: 3, 4].
-* **Security Fundamentals:** Network traffic inspection (Wireshark) and basic crypto (AES, RSA, Hashing)[cite: 5].
+- **Windows Internals:** Processes (`csrss`, `lsass`, `svchost`), PEB/TEB, and core architecture.
+- **PE Format:** File headers, sections, import/export tables.
+- **Reverse Engineering:** Basic x86/x64 assembly, disassembly with Ghidra and x64dbg.
+- **Malware Analysis:** Analyzing real-world samples, triage, and common injection techniques (DLL injection, Process Hollowing).
+- **Security Fundamentals:** Network traffic inspection (Wireshark) and basic crypto (AES, RSA, Hashing).
 
 ---
 
