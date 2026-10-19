@@ -6,9 +6,6 @@
 
   <br/>
 
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-@username-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
 
 </div>
 
