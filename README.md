@@ -2,63 +2,49 @@
 
   <h1>Hi, I'm Musab 👋</h1>
   
-  <p><strong>CS Student @ SEU | Security Enthusiast & Lifelong Learner</strong></p>
+  <p>CS Student @ SEU | Security Enthusiast & Reverse Engineering</p>
 
-  <p><em>Patience, persistence, and continuous learning — digging deeper into systems one concept at a time.</em></p>
+  <br/>
 
-  <!-- Status / Learning Badges -->
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Journey-Windows%20Internals%20%26%20Reversing-orange?style=for-the-badge&logo=target" alt="Journey" />
-
-  <br/><br/>
-
-  <!-- Social Links -->
   <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@username-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
 
 </div>
 
 ---
 
-### 📖 About My Learning Journey
+### About Me
 
-- 🎓 **Academic Path:** Computer Science student at Saudi Electronic University (SEU)[cite: 1].
-- 🎯 **My Approach:** Low-level security and systems engineering take serious time and repetition to truly grasp. I'm taking my time building a rock-solid foundation rather than rushing through high-level overviews.
-- 🧠 **Current Routine:** Dissecting technical concepts, writing structured notes, analyzing binary behavior, and practicing fundamentals.
-
----
-
-### ⏳ Topics I'm Actively Studying & Exploring
-
-> *These represent areas I am currently breaking down, taking notes on, and exploring at my own pace:*
-
-- **Windows Internals:** Operating system structure, essential processes (`csrss`, `lsass`, `svchost`), process/thread management, and internal structures (`PEB`, `TEB`)[cite: 2].
-- **PE File Format:** Structure breakdown (Headers, Imports, Exports, and Sections)[cite: 2].
-- **Reverse Engineering Foundations:** Binary disassembly, basic x86/x64 assembly patterns, and control flow analysis[cite: 3].
-- **Malware Analysis & Concepts:** Static/dynamic analysis principles, triage, and studying common evasion/injection concepts (DLL Injection, Process Hollowing, Syscalls)[cite: 3, 4].
-- **Security Fundamentals:** Networking essentials, recon techniques, and core cryptographic primitives (AES, RSA, Hashing)[cite: 5].
+* 🎓 CS student at Saudi Electronic University (SEU)[cite: 1].
+* 🔬 Currently focusing on **Windows Internals**, **Reverse Engineering**, and **Malware Analysis**.
+* 📝 Learning low-level concepts step-by-step and documenting my notes along the way.
+* 💻 Writing small tools and scripts mainly in C, Python, and PowerShell.
 
 ---
 
-### 🛠️ Languages & Tools in My Toolbox
+### What I'm Currently Learning
 
-#### **Languages (Learning & Scripting)**
+* **Windows Internals:** Processes (`csrss`, `lsass`, `svchost`), PEB/TEB, and core architecture[cite: 2].
+* **PE Format:** File headers, sections, import/export tables[cite: 2].
+* **Reverse Engineering:** Basic x86/x64 assembly, disassembly with Ghidra and x64dbg[cite: 3].
+* **Malware Analysis:** Analyzing real-world samples, triage, and common injection techniques (DLL injection, Process Hollowing)[cite: 3, 4].
+* **Security Fundamentals:** Network traffic inspection (Wireshark) and basic crypto (AES, RSA, Hashing)[cite: 5].
+
+---
+
+### Tools & Languages
+
+#### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Assembly](https://img.shields.io/badge/ASM-x86%20%2F%20x64-6E4C13?style=flat-square)
+![ASM](https://img.shields.io/badge/ASM-x86%20%2F%20x64-6E4C13?style=flat-square)
 
-#### **Analysis & Research Tools**
+#### Tools
 ![Ghidra](https://img.shields.io/badge/Ghidra-Static%20Analysis-red?style=flat-square)
 ![x64dbg](https://img.shields.io/badge/x64dbg-Debugging-darkgreen?style=flat-square)
-![Sysinternals](https://img.shields.io/badge/Sysinternals-Procmon%20|%20Process%20Explorer-0078D4?style=flat-square)
+![Sysinternals](https://img.shields.io/badge/Sysinternals-Procmon%20|%20ProcExp-0078D4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
----
-
-<div align="center">
-  <code>"It takes time to understand what's under the hood. Building, breaking, and learning every day."</code>
-</div>
