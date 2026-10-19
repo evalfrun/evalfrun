@@ -25,7 +25,7 @@
 
 ### What I'm Currently Learning
 
-* **Windows Internals:** Processes (`csrss`, `lsass`, `svchost`), PEB/TEB, and core architecture[cite: 2].
+* **Windows Internals:** Processes (`csrss`, `lsass`, `svchost`), PEB/TEB, and core architecture [cite: 2].
 * **PE Format:** File headers, sections, import/export tables[cite: 2].
 * **Reverse Engineering:** Basic x86/x64 assembly, disassembly with Ghidra and x64dbg[cite: 3].
 * **Malware Analysis:** Analyzing real-world samples, triage, and common injection techniques (DLL injection, Process Hollowing)[cite: 3, 4].
